@@ -1,6 +1,3 @@
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=natachadelarosa&theme=dracula&column=7&margin-w=5&count_private=true&include_all_commits=true"/>
-
 # Hi there, I'm Natacha 👋🏾
 
 😄 Pronouns She/Her
