@@ -11,6 +11,11 @@ I'm a software developer from Dominican Republic. I’m passionate about buildin
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=natachadelarosa.natachadelarosa)
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natachadelarosa&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadelarosa&layout=compact&title_color=63cda9&hide=html"/>
+</p>
+
 <!--
 
 
